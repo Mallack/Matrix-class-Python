@@ -8,5 +8,6 @@ In this coda a matrix class has been implemented to find the following operation
 - Subtraction of two matrix.
 - Matrix Transpos.
 - Multiplcation of two matrix.
-Code is Written in python. 
-<<matrix>>
+ 
+'Matrix.py' contains all the functions
+
